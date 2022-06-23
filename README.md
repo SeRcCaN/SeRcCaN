@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 🤟 I'm Sercan, I'm an iOS Developer 
+
+### Here are some details about me and my profile on GitHub:
+
+🖥  My technical skills, work experience can be found at [sercanios.dev](https://www.sercanios.dev)
+
+📬  How to reach me: sercanburak@gmail.com
 
 <!--
 **SeRcCaN/SeRcCaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
