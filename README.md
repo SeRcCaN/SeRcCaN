@@ -1,4 +1,4 @@
-## Hi there 🤟 I'm Sercan, I'm an iOS Developer 
+## Hi there 👋 I'm Sercan, I'm an iOS Developer 
 
 ### Here are some details about me and my profile on GitHub:
 
