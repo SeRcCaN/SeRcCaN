@@ -1,4 +1,4 @@
-## 👋 Heey, Nice to meet you.
+## 👋 Hey, Nice to meet you.
 
 ### Here are some details about me and my profile on GitHub:
 
